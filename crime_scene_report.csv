@@ -2,16 +2,16 @@
 20180115,robbery,A Man Dressed as Spider-Man Is on a Robbery Spree,NYC
 20180115,murder,Life? Dont talk to me about life.,Albany
 20180115,murder,"Mama, I killed a man, put a gun against his head...",Reno
-20180215,murder,REDACTED REDACTED REDACTED,SQL City
-20180215,murder,Someone killed the guard! He took an arrow to the knee!,SQL City
+20180215,murder,REDACTED REDACTED REDACTED,Python City
+20180215,murder,Someone killed the guard! He took an arrow to the knee!,Python City
 20180115,theft,Big Bully stole my lunch money!,Chicago
 20180115,fraud,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",Seattle
-20170712,theft,"A lone hunter stalks the night, firing arrows into the Darkness. There is no hiding, no escape. In the distance, the beast falters, tethered to the void. The killing blow comes without hesitation, without mercy.",SQL City
-20170820,arson,"Wield the Hammer of Sol with honor, Titan, it is a thing of legend, both past and future.",SQL City
-20171110,robbery,"The Gjallarhorn shoulder-mounted rocket system was forged from the armor of Guardians who fell at the Twilight Gap. Gifted to the survivors of that terrible battle, the Gjallarhorn is seen as a symbol of honor and survival.",SQL City
-20180103,bribery,"Apparently, Cayde thought it necessary to expose this extremely rare vegetable to a Hive summoning ritual.",SQL City
-20180115,assault,"Hamilton: Lee, do you yield? Burr: You shot him in the side! Yes he yields!",SQL City
-20180115,assault,Report Not Found,SQL City
+20170712,theft,"A lone hunter stalks the night, firing arrows into the Darkness. There is no hiding, no escape. In the distance, the beast falters, tethered to the void. The killing blow comes without hesitation, without mercy.",Python City
+20170820,arson,"Wield the Hammer of Sol with honor, Titan, it is a thing of legend, both past and future.",Python City
+20171110,robbery,"The Gjallarhorn shoulder-mounted rocket system was forged from the armor of Guardians who fell at the Twilight Gap. Gifted to the survivors of that terrible battle, the Gjallarhorn is seen as a symbol of honor and survival.",Python City
+20180103,bribery,"Apparently, Cayde thought it necessary to expose this extremely rare vegetable to a Hive summoning ritual.",Python City
+20180115,assault,"Hamilton: Lee, do you yield? Burr: You shot him in the side! Yes he yields!",Python City
+20180115,assault,Report Not Found,Python City
 20170101,fraud,forgotten to ask.’,Long Beach
 20170101,fraud,"Alice did not wish to offend the Dormouse again, so she began very",Oceanside
 20170101,theft,"‘Yes,’ said Alice, ‘we learned French and music.’",Chicago
@@ -1226,4 +1226,4 @@
 20180430,fraud,‘Why not?’ said the March Hare.,Houma
 20180430,assault,,Fontana
 20180501,assault,"be NO mistake about it: it was neither more nor less than a pig, and she",Trenton
-20180115,murder,"Security footage shows that there were 2 witnesses. The first witness lives at the last house on ""Northwestern Dr"". The second witness, named Annabel, lives somewhere on ""Franklin Ave"".",SQL City
+20180115,murder,"Security footage shows that there were 2 witnesses. The first witness lives at the last house on ""Northwestern Dr"". The second witness, named Annabel, lives somewhere on ""Franklin Ave"".",Python City
