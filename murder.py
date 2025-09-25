@@ -36,6 +36,7 @@ def clear_cooldown():
 st.title("Did you find the killer?")
 st.write("Enter the full name (first and last).")
 
+
 # If cooling down: show progress + disabled UI and auto-refresh each second
 if cooldown_active():
     remaining = max(0, int(st.session_state.cooldown_until_ts - time.time()))
@@ -76,6 +77,7 @@ else:
             help="Example: Jane Doe",
         )
         submitted = st.form_submit_button("Check")
+        st.caption("Tip: Matching is case-insensitive and ignores extra spaces.")
 
     if submitted:
         name = normalize_name(st.session_state.guess_text)
@@ -108,4 +110,6 @@ if st.session_state.last_wrong_guess:
     st.caption(f"Last guess: *{st.session_state.last_wrong_guess}*")
 
 # Optional: tiny UX touch
-st.caption("Tip: Matching is case-insensitive and ignores extra spaces.")
+# st.caption("Tip: Matching is case-insensitive and ignores extra spaces.")
+
+st.caption("© 2025 Luis Fernando Pérez Armas")
